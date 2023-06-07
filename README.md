@@ -1,4 +1,4 @@
-## Olá!! me chamo Josué Couto
+## Olá!! me chamo Josué Couto👋
 <p><em>Desenvolvedor Full-stack</br>Graduando em Análises e Desenvolvimento de Sistemas pela <a target="_blank" href="https://faculdade.grancursosonline.com.br/nossos-cursos/">GRAN Centro Universitário</a>
 
 
