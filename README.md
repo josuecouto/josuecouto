@@ -2,8 +2,8 @@
 <p><em>Desenvolvedor Full-stack</br>Graduanda em Análises e Desenvolvimento de Sistemas pela <a target="_blank" href="https://faculdade.grancursosonline.com.br/nossos-cursos/">GRAN Centro Universitário</a>
 
 
-[![Linkedin: josuecouto](https://img.shields.io/badge/-adrianabeatriz3-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianabeatriz3/)](https://www.linkedin.com/in/adrianabeatriz3/)
-[![Portfolio](https://img.shields.io/badge/-portfolio-ff69b4?style=flat-square&link=https://.vercel.app)](https:/.vercel.app/)
+[![Linkedin: josuecouto](https://img.shields.io/badge/-josuecouto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josuecouto/)](https://www.linkedin.com/in/josuecouto/)
+
 
 ## Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
