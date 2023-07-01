@@ -16,10 +16,5 @@
 ![python](https://img.shields.io/badge/python-%23404d59.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)
 
 
-
-##
-  <a href="https://github.com/driica">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josuecouto&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuecouto&layout=compact&langs_count=7&theme=omni"/>
   
 </div>
